@@ -1,0 +1,33 @@
+body { 
+
+font-family: 'BodyCopy', Constantia, Georgia, 
+'Times New Roman', serif; 
+text-align: justify; 
+text-justify: distribute;
+}
+h1{ 
+    font-family: 'TitleCopy', Corbel, Helvetica, Arial, 
+    sans-serif; 
+    
+    
+    
+    font-style: italic;
+}
+    @font-face { 
+        font-family: 'BodyCopy'; 
+        src: url('fonts/DVS/DejaVuSerif.eot'); 
+        src: url('fonts/DVS/DejaVuSerif.eot?#iefix') 
+        format('embedded-opentype'), 
+        url('fonts/DVS/DejaVuSerif.woff') format('woff'), 
+        url('fonts/DVS/DejaVuSerif.ttf') format('truetype'); 
+        font-weight: normal; 
+        font-style: normal; }
+  
+       
+       
+        h3.chaptertitle { 
+            font-family: 'TitleCopy', Corbel, Helvetica, Arial, 
+            sans-serif; 
+            vertical-align: middle; 
+            font-size: 200%; 
+            }

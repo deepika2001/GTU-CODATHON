@@ -1,0 +1,9 @@
+<html> 
+<head> 
+</head> 
+<body> 
+<title>My first script</title> 
+<script src="intro.js"></script>
+
+</body>
+</html>

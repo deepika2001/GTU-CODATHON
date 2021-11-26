@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title>ALICE ADVENTURE WONDERLAND</title>
+    
+           
+  <h1>BY LEWIS CARROLL</h1>
+  
+  <h2>chapter 2</h2> <h3>pig and pop</h3>  
+  
+       
+
+    </head>
+    <link rel="stylesheet"href="box-properties.css">
+ <img src="giant.jpg" height="600px">
+ <article>Add the following new style in bold to the stylesheet. Be careful with the syntax of 
+the name of the style as it must select the same element as the existing style (in 
+text-properties.css) that creates the larger first letter.</article>
+</html>
