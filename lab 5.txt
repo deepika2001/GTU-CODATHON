@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>Alice&#8217;s Adventures in Wonderland</title> 
+<link href="global.css" type="text/css" rel="stylesheet" media="all"> 
+<style type="text/css" media="all">
+@import url('ch01.css'); 
+h1 { 
+color: red; 
+font-size: 3em; 
+font-weight: bold; 
+}
+h1 { 
+color: red; 
+font-size: 3em; 
+font-weight: bold; 
+} 
+h1 .chaptertitle { 
+p { 
+color: rgb(153,153,153); 
+font-family: perpetua, georgia, serif; 
+line-height: 1.5; 
+text-indent: 3em; 
+} 
+
+.chaptertitle { 
+font-family: perpetua, georgia, serif; 
+font-variant: small-caps; 
+letter-spacing: .1em; 
+}
+
+
+a.chaptertitle 
+{ 
+font-size: 2em; 
+font-style: italic;
+ }
+
+</style> 
+</head> 
+
+</article> 
+<footer><nav> Next: 
+<a class="chaptertitle" href="AAIWL-ch02.html">The Pool of Tears</a> 
+</nav></footer>

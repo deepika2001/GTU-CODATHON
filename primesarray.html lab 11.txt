@@ -1,0 +1,7 @@
+<html>
+    <meta charset="utf-8" />
+    <head>
+        <script type="text/javascript" src="array/PrimesArray.js"></script>
+    </head>
+
+</html>
