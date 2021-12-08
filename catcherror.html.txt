@@ -1,9 +1,0 @@
-<html> 
-<head> 
-</head> 
-<body> 
-<title>My first script</title> 
-<script src="catcherror.js"></script>
-
-</body>
-</html>
